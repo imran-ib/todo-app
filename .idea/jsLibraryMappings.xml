@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/public/javascripts/script.js" libraries="{WebGL}" />
+    <file url="PROJECT" libraries="{autoprefixer-DefinitelyTyped, babel-code-frame-DefinitelyTyped, babel-generator-DefinitelyTyped, babel-webpack-plugin-DefinitelyTyped, babelify-DefinitelyTyped, babyparse-DefinitelyTyped, bootstrap-3-typeahead-DefinitelyTyped, jquery-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>

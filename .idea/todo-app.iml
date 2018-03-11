@@ -8,5 +8,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="babel-code-frame-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="autoprefixer-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="babel-generator-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="babel-webpack-plugin-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="babelify-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="babyparse-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="bootstrap-3-typeahead-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jquery-DefinitelyTyped" level="application" />
   </component>
 </module>
